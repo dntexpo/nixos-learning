@@ -5,12 +5,13 @@
 using this nixos system I want to:
 
 - [ ] try different software:
-	- [ ] awesomewm
 	- [ ] i3
+	- [ ] awesomewm
+	- [ ] helix
 	- [ ] default vim
 	- [ ] neovim
+	- [x] ghostty
 	- [ ] alacritty
-	- [ ] ghostty
 	- [ ] fish
 	- [ ] zsh
 	- [ ] exa
@@ -20,7 +21,6 @@ using this nixos system I want to:
 
 ## questions
 
-- how does garbage collection work?
 - how do flakes work?
 - how to use awesomewm? Currently using Mutter
 - how to resize my display scale to 125%?
