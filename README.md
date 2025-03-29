@@ -7,12 +7,12 @@ using this nixos system I want to:
 - [ ] try different software:
 	- [ ] i3
 	- [ ] awesomewm
-	- [ ] helix
-	- [ ] default vim
+	- [x] helix
+	- [x] default vim
 	- [ ] neovim
 	- [x] ghostty
 	- [ ] alacritty
-	- [ ] fish
+	- [x] fish
 	- [ ] zsh
 	- [ ] exa
 	- [ ] zoxide
@@ -25,6 +25,7 @@ using this nixos system I want to:
 - how to use awesomewm? Currently using Mutter
 - how to resize my display scale to 125%?
 - how to alt tab through same app windows?
+- how to customize ghostty? How to take out top bar?
 
 ## resources
 
