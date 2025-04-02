@@ -5,15 +5,12 @@
 using this nixos system I want to:
 
 - [ ] try different software:
-	- [ ] i3
-	- [ ] awesomewm
+	- [ ] sway
 	- [x] helix
 	- [x] default vim
 	- [ ] neovim
 	- [x] ghostty
-	- [ ] alacritty
 	- [x] fish
-	- [ ] zsh
 	- [ ] exa
 	- [ ] zoxide
 	- [ ] fzf
@@ -21,14 +18,11 @@ using this nixos system I want to:
 
 ## questions
 
+- how to use any window manager? currently using mutter
 - how do flakes work?
-- how to use awesomewm? currently using mutter
 - how to resize my display scale to 125%?
-- how to alt tab through same app windows?
-- how to customize ghostty? how to take out top bar?
 - how to go to definitions on helix?
-- how to see errors on helix?
-- how to copy those errors from helix?
+- how to copy errors from helix?
 
 ## resources
 
