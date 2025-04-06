@@ -18,14 +18,18 @@ using this nixos system I want to:
 
 ## questions
 
-- how to use any window manager? currently using mutter
 - how do flakes work?
 - how to resize my display scale to 125%?
-- how to go to definitions on helix?
-- how to copy errors from helix?
+- how to use any window manager? currently using mutter
 
 ## resources
 
-- [ ] https://nix.dev/manual/nix/2.24/
-- [X] https://nix.dev/
+- [X] [Nix I](https://nix.dev/)
+- [ ] [Nix II](https://nix.dev/manual/nix/2.24/)
+- [ ] [Home Manager](https://nix-community.github.io/home-manager/)
+- [ ] [Pills](https://nixos.org/guides/nix-pills/)
+- [ ] [Reference Manuals](https://nixos.org/learn/)
+- [ ] [Flakes](https://nixos-and-flakes.thiscute.world/)
+- [ ] [NixOS Wiki I](https://wiki.nixos.org/wiki/NixOS_Wiki)
+- [ ] [NixOS Wiki II](https://nixos.wiki/wiki/Main_Page)
 
