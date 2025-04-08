@@ -32,4 +32,6 @@ using this nixos system I want to:
 - [ ] [Flakes](https://nixos-and-flakes.thiscute.world/)
 - [ ] [NixOS Wiki I](https://wiki.nixos.org/wiki/NixOS_Wiki)
 - [ ] [NixOS Wiki II](https://nixos.wiki/wiki/Main_Page)
-
+- [ ] [Sway](https://swaywm.org/)
+- [ ] [Helix](https://docs.helix-editor.com/)
+ 
