@@ -27,8 +27,8 @@ using this nixos system I want to:
 - [ ] [Nix II](https://nix.dev/manual/nix/2.24/) -> 8.3.1
 - [ ] [Home Manager](https://nix-community.github.io/home-manager/)
 - [ ] [Pills](https://nixos.org/guides/nix-pills/)
-- [ ] [Reference Manuals](https://nixos.org/learn/)
 - [ ] [Flakes](https://nixos-and-flakes.thiscute.world/)
+- [X] [NixOS Reference Manual](https://nixos.org/manual/nixos/stable/)
 - [ ] [NixOS Wiki I](https://wiki.nixos.org/wiki/NixOS_Wiki)
 - [ ] [NixOS Wiki II](https://nixos.wiki/wiki/Main_Page)
 - [ ] [Sway](https://swaywm.org/)
