@@ -24,7 +24,7 @@ using this nixos system I want to:
 ## resources
 
 - [X] [Nix I](https://nix.dev/)
-- [ ] [Nix II](https://nix.dev/manual/nix/2.24/) -> 8.3.1
+- [X] [Nix II](https://nix.dev/manual/nix/2.24/)
 - [ ] [Home Manager](https://nix-community.github.io/home-manager/)
 - [ ] [Pills](https://nixos.org/guides/nix-pills/)
 - [ ] [Flakes](https://nixos-and-flakes.thiscute.world/)
